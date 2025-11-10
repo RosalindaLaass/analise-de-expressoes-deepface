@@ -15,9 +15,16 @@ git clone <link_do_repositório>
 ## 📂Arquitetura das pastas
 ```
 C:.
-│   readme.md
+│── deepface/
+│   ├── cry.jpg
+│   ├── fear.jpg
+│   ├── happy.jpeg
+│   └── main.py
+│
+└── readme.md
 
 ```
 
 ## 🤞🏻Autores
 - Rosalinda Laass Gröner.
+
