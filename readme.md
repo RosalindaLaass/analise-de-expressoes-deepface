@@ -4,7 +4,7 @@
 <p> Esse repositório tem como objetivo entender as emoções de espectadores de filmes de terror por meio do Deepface. Com essa possibilidade de analise é possivel entender como funciona a psicologia por trás desse tipo de cinema.
 Nesse repositório é possível ter um resumo da história do cinema e do cinema de terror nesse PDF: </p>
 
-## ⚙️Como executar os desafios na sua máquina
+## ⚙️Como executar o programa
 #### 1.0 - Clonar o reposiório
 Para ter acesso aos desafios no seu computador, inicialmente você deve clonar o repositório com o seguinte comando:
 
@@ -27,4 +27,5 @@ C:.
 
 ## 🤞🏻Autores
 - Rosalinda Laass Gröner.
+
 
